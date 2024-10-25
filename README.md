@@ -14,8 +14,10 @@ Welcome to the **Harry Potter Characters App**, a Flutter-based application that
 - **Seamless Animations**: Enhanced user experience with animations integrated throughout the app.
 - **Responsive UI**: Optimized for multiple device sizes using screenutil.
 
+
+## 📸 Screenshots
 <div align="center">
-  <img src="./assets/images/harry.jpg" alt="Logo" width="120"/>
+  <img src="./assets/images/harry.jpg" alt="Logo" width="900"/>
 </div>
 
 
