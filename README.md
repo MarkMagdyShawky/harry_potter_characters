@@ -1,4 +1,4 @@
 <div align="center">
-  <img src="./App_screenshots/magicBook.png" alt="Logo" width="80"/>
+  <img src="./assets/harry.jpg" alt="Logo" width="80"/>
   <h1>Harry Potter</h1>
 </div>
